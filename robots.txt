@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xemaexeiz.quobit.net/sitemap.xml
